@@ -16,5 +16,5 @@ console.log(
     a.charCodeAt(0) + ", " + b.charCodeAt(0) + "\n" + 
     c.charCodeAt(0) + " " + c.charCodeAt(1) + "\n" + 
     d.charCodeAt(0) + " " + d.charCodeAt(1) + "\n" + 
-    e.charCodeAt(0) + " " + e.charCodeAt(1) + " " + e.charCodeAt(1) + "\n"
+    e.charCodeAt(0) + " " + e.charCodeAt(1) + " " + e.charCodeAt(2) + "\n"
 );
