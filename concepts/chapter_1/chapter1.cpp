@@ -1,11 +1,15 @@
 #include <iostream>
 
-int main() {
+int main() 
+{
     float a { 4.5 };
     std::cout << "a = " << a << '\n';
     a = 6.75;
     std::cout << "New Line! a = " << a;
-    std::cout << "\nNumber 'a' = " << a << " | change the value: ";
+    std::cout
+        << "\nNumber 'a' = "
+        << a
+        << " | change the value: ";
     std::cin >> a;
     std::cout << "Number = " << a << "!\n";
     std::cout << "Again ! Two numbers now:\n";
