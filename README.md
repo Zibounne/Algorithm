@@ -2,12 +2,6 @@
 
 🔹 Welcome to my repository! This repo contains all my algorithmic explorations in C++. It serves both as a personal reference and as a way to share my implementations and experiments in algorithm development.
 
-## 🚀 Goals
-
-🔹 Strengthen my problem-solving and algorithmic skills<br>
-🔹 Experiment with and optimize my implementations for better performance<br>
-🔹 Share my knowledge with the community
-
 ## 📜 Description
 
 This repository includes:<br>
