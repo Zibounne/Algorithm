@@ -37,8 +37,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 #include <iostream>
 #include <vector>
 
-int main()
-{
+int main() {
     // Example 1:
     std::vector<int> nums {2, 7, 11, 15};
     int target {9};
@@ -53,12 +52,9 @@ int main()
 
     std::vector <int> result;
 
-    for (int i = 0; i < std::size(nums); i++)
-    {
-        for (int j = i + 1; j < std::size(nums); j++)
-        {
-            if(nums[i] + nums[j] == target)
-            {
+    for (int i = 0; i < std::size(nums); i++) {
+        for (int j = i + 1; j < std::size(nums); j++) {
+            if(nums[i] + nums[j] == target) {
                 result.push_back(i);
                 result.push_back(j);
                 break;
@@ -78,18 +74,15 @@ int main()
 }
 
 // Solution
-
+/*
 class Solution {
     public:
         std::vector<int> twoSum(std::vector<int>& nums, int target) {
             std::vector <int> result;
 
-            for (int i = 0; i < std::size(nums); i++)
-            {
-                for (int j = i + 1; j < std::size(nums); j++)
-                {
-                    if(nums[i] + nums[j] == target)
-                    {
+            for (int i = 0; i < std::size(nums); i++) {
+                for (int j = i + 1; j < std::size(nums); j++) {
+                    if(nums[i] + nums[j] == target) {
                         result.push_back(i);
                         result.push_back(j);
                         break;
@@ -99,4 +92,5 @@ class Solution {
     
             return result;
         }
-    };
+};
+*/
