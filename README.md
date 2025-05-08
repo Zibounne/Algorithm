@@ -9,6 +9,10 @@ This repository includes:<br>
 🔹 Theoretical content also available via Learncpp.<br>
 🔹 ...
 
+## 📊 Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/zibounne?ext=heatmap&theme=dark)
+
 ## 🛠️ Technologies
 
 📟 Language: C++<br>
