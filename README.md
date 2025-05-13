@@ -1,13 +1,14 @@
 # 📌 Algorithm
 
-🔹 Welcome to my repository! This repo contains all my algorithmic explorations in C++. It serves both as a personal reference and as a way to share my implementations and experiments in algorithm development.
+🔹 Welcome to my repository! This repo contains all my **algorithmic** explorations in **JavaScript**. It serves both as a personal reference and as a way to share my implementations and experiments in **algorithm development**.
 
 ## 📜 Description
 
 This repository includes:<br>
-🔹 Solutions to challenges from platforms like LeetCode.<br>
-🔹 Theoretical content also available via Learncpp.<br>
-🔹 ...
+🔹 Solutions to **challenges** from platforms like LeetCode.<br>
+🔹 **Theoretical** content.<br>
+🔹 **Documentations**.<br>
+🔹 And more...
 
 ## 📊 Stats
 
@@ -15,8 +16,7 @@ This repository includes:<br>
 
 ## 🛠️ Technologies
 
-📟 Language: C++<br>
-🔧 Build : g++
+📟 Language: **JavaScript**
 
 ## 👤 Author
 
@@ -28,7 +28,7 @@ This repository includes:<br>
 
 ### ⭐ Credits
 
-📟 Coding Time | Algorithm
+📟 Coding Time | **Algorithm**
 <br>
 [![wakatime](https://wakatime.com/badge/user/018ee67a-8597-4af3-ab6a-199ac4f20f9d/project/2341db61-ecba-46eb-8e16-8ca9bcce4a5f.svg)](https://wakatime.com/badge/user/018ee67a-8597-4af3-ab6a-199ac4f20f9d/project/2341db61-ecba-46eb-8e16-8ca9bcce4a5f)
 <br>
