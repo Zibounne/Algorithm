@@ -17,6 +17,7 @@ This repository includes:<br>
 ## 🛠️ Technologies
 
 📟 Language: **C++**
+🔧 build: **g++**
 
 ## 👤 Author
 
