@@ -1,6 +1,6 @@
 # 📌 Algorithm
 
-🔹 Welcome to my repository! This repo contains all my **algorithmic** explorations in **JavaScript**. It serves both as a personal reference and as a way to share my implementations and experiments in **algorithm development**.
+🔹 Welcome to my repository! This repo contains all my **algorithmic** explorations in **C++**. It serves both as a personal reference and as a way to share my implementations and experiments in **algorithm development**.
 
 ## 📜 Description
 
@@ -16,7 +16,7 @@ This repository includes:<br>
 
 ## 🛠️ Technologies
 
-📟 Language: **JavaScript**
+📟 Language: **C++**
 
 ## 👤 Author
 
