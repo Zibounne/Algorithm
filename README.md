@@ -1,11 +1,11 @@
 # 📌 Algorithm
 
-🔹 Welcome to my repository! This repo contains all my **algorithmic** explorations in **C++**. It serves both as a personal reference and as a way to share my implementations and experiments in **algorithm development**.
+🔹 Welcome to my repository! This repo contains all my **algorithmic** explorations in **Python**. It serves both as a personal reference and as a way to share my implementations and experiments in **algorithm development**.
 
 ## 📜 Description
 
 This repository includes:<br>
-🔹 Solutions to **challenges** from platforms like LeetCode.<br>
+🔹 Solutions to **challenges** from platforms like LeetCode & CodeWars.<br>
 🔹 **Theoretical** content.<br>
 🔹 **Documentations**.<br>
 🔹 And more...
@@ -16,8 +16,7 @@ This repository includes:<br>
 
 ## 🛠️ Technologies
 
-📟 Language: **C++**<br>
-🔧 build: **g++**
+📟 Language: **Python**<br>
 
 ## 👤 Author
 
